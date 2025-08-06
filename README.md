@@ -16,5 +16,5 @@ These reports aim to identify timely opportunities, explain market-moving events
 1. **[Life360 (LIF)](./Life-360-LIF.md)** – *03/23/2025*  
    Analysis of institutional distribution, with a long thesis centered on user retention, subscription momentum, and strategic product growth.
 
-2. **[SharkNinja (SN)](./Shark-Ninja-SN.md)** – *08/06/2025*  
+2. **[SharkNinja (SN)](./Shark-Ninja-SN.md)** – *03/16/2025*  
    Long thesis driven by viral product adoption, resilient pricing strategy, and strong financial performance despite near-term supply chain risk.
