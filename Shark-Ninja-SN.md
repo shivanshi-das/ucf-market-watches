@@ -49,7 +49,7 @@ Despite strong financial performance, investors are still cautious due to the po
 
 In my opinion, Southeast Asia is not a large enough threat to the U.S. for the Trump Administration to place tariffs or some other trade regulation on the region as of now. At the very least, I don’t see it happening within the next 12 months. That being said, shifting a supply chain from one region to another is inherently risky as it involves logistical challenges, potential disruptions, and unforeseen costs. Diversifying away from China will undoubtedly reduce long-term trade risks, but the transition period between supply chains could result in short-term volatility for SharkNinja.  
 
-![Technical-Chart-SN-03-16-2025](Technical-Chart-LIF-03-16-2025.png)
+![Technical-Chart-SN-03-16-2025](Technical-Chart-SN-03-16-2025.png)
 
 The recent ~20% decline in SN has raised concerns that SN could experience further downside.  If SN breaks below $85, the next key support level is around $80, a previous dip where buying interest may re-emerge. A breakdown below $80 could indicate a more significant technical deterioration. 
 
