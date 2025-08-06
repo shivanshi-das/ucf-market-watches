@@ -1,9 +1,18 @@
-# Market Watches – Shivanshi Das
+<p align="center">
+  <img src="ucf_logo.jpg" alt="Texas UCF Logo" width="200"/>
+</p>
 
-This repo contains market research I wrote as a Quantitative Analyst at Texas Undergraduate Computational Finance (UCF). Each watch includes macro analysis, sector insights, and an original investment thesis.
+## Market Watches – Shivanshi Das
+This repository showcases original market research written during my time as a Quantitative Analyst for Texas Undergraduate Computational Finance (UCF). Each Market Watch offers:
+
+- Concise macroeconomic updates
+- Sector-specific analysis
+- A unique long or short investment thesis supported by data and technicals
+
+These reports aim to identify timely opportunities, explain market-moving events, and develop my investment research skills through real-time market writing.
 
 ## Featured Market Watches
 
-1. **[Life360 (LIF)](./Life-360-LIF.md)** – Positioning after institutional selloff; thesis on retention, product expansion 
-2. **[Texas Instruments (TXN)](./Texas_Instruments_TXN.md)** – Contrarian long thesis on semiconductors amid tariff pressure  
+1. **[Life360 (LIF)](./Life-360-LIF.md)** – Analysis of institutional distribution, with a long thesis centered on user retention, subscription momentum, and strategic product growth
+
 
