@@ -1,8 +1,7 @@
 # Happy National Puppy Day UCF!
-
 I hope this market watch finds you well.
 
----
+![Market-Overview-03-23-2025](Market-Overview-03-23-2025.png)
 
 ## Crypto’s long battle with SEC comes to a close with Ripple victory
 
