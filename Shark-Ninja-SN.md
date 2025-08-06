@@ -2,6 +2,8 @@
 
 I hope this market watch finds you well. 
 
+![Market-Overview-03-16-2025](Market-Overview-03-16-2025.png)
+
 [Eggs Are So Expensive People Are Smuggling Them In From Mexico](https://www.wsj.com/articles/mexico-egg-smuggling-prices-940b3163?mod=latest_headlines)
 - The cost of eggs in the U.S. has skyrocketed, averaging $5.90 per dozen, compared to $3 a year ago, due to an avian flu outbreak reducing supply.
 - Consumers are illegally bringing in cheaper eggs from Mexico, where prices are under $2 per dozen, leading to a 36% rise in egg-related border interceptions.
@@ -31,6 +33,7 @@ While Southwest customers are not the happiest about this new policy, investors 
 
 ## WIW - Long on SharkNinja (SN)
 
+ ![SN-03-16-2025](SN-03-16-2025.png)
  
 SharkNinja (SN) is a global product design and technology company that specializes in household appliances and cleaning products. Since its founding in 1994, the company has expanded significantly, leveraging its two primary brands Shark and Ninja to build a diverse and therefore resilient revenue stream. As of now, the SharkNinja’s product portfolio includes 31 household categories, including cooking, cleaning, beauty, and home environment, and is available in 32 markets worldwide. 
 
@@ -46,6 +49,7 @@ Despite strong financial performance, investors are still cautious due to the po
 
 In my opinion, Southeast Asia is not a large enough threat to the U.S. for the Trump Administration to place tariffs or some other trade regulation on the region as of now. At the very least, I don’t see it happening within the next 12 months. That being said, shifting a supply chain from one region to another is inherently risky as it involves logistical challenges, potential disruptions, and unforeseen costs. Diversifying away from China will undoubtedly reduce long-term trade risks, but the transition period between supply chains could result in short-term volatility for SharkNinja.  
 
+![Technical-Chart-SN-03-16-2025](Technical-Chart-LIF-03-16-2025.png)
 
 The recent ~20% decline in SN has raised concerns that SN could experience further downside.  If SN breaks below $85, the next key support level is around $80, a previous dip where buying interest may re-emerge. A breakdown below $80 could indicate a more significant technical deterioration. 
 
